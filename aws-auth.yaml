@@ -15,5 +15,5 @@ kind: ConfigMap
 metadata:
   creationTimestamp: "2024-12-10T15:45:24Z"
   name: aws-auth
-  namespace: expense
+  namespace: kube-system
   uid: dd3dd532-3be5-4a02-a207-96954de0f22e
